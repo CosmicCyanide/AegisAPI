@@ -18,13 +18,11 @@ AegisAPI is an advanced API security analyzer that combines powerful fuzzing, ra
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/aegisapi.git
    cd aegisapi
 
     Install the required dependencies:
-
-    bash
 
     pip install -r requirements.txt
 
